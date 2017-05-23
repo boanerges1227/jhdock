@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<configuration>
+  <connectionStrings>
+    <!--logo名 -->
+    <add name="logoName" connectionString="JHIP_LOGO"/>
+    <!--是否显示登录窗体左下脚图标 -->
+    <add name="leftFlag" connectionString="false"/>
+    <!--是否显示登录窗体右下角图标 -->
+    <add name="rightFlag" connectionString="true"/>
+    <add name="isHaveCA" connectionString="False"/>
+    <!--湖北CA:HBCA 广东CA：GDCA -->
+    <add name="CAName" connectionString="NO"/>
+    <add name="HosptailName" connectionString="xy215"/>
+    <add name="IsCloseOrMin" connectionString=""/>
+    <!--是否显示登录窗体上的CA登录按钮 1：显示 0：隐藏-->
+    <add name="IsShowbtnCA" connectionString="0"/>
+    <!--湖北CA服务器网关IP-->
+    <add name="HBCAServiceIP" connectionString="127.0.0.1"/>
+    <!--<add name="HBCAServiceIP" connectionString="172.16.80.202"/>-->
+    <!--湖北CA应用服务标识-->
+    <add name="HBCAAppFlag" connectionString="testApp"/>
+    <!--<add name="HBCAAppFlag" connectionString="JHDock"/>-->
+    <!--湖北CA网关端口号-->
+    <add name="HBCAPort"  connectionString="6180"/>
+    <!--系统名称-->
+    <add name="SysModelName"  connectionString="系统"/>
+    <!--界面模式 QQ:QQ模式;Tile:平铺模式-->
+    <add name="MainModel"  connectionString="Tile"/>
+    <!--锁屏时间(秒）-->
+    <add name="LockScreenTime"  connectionString="600"/>
+    
+  </connectionStrings>
+  <system.serviceModel>
+    <bindings>
+      <basicHttpBinding>
+        <binding name="JhipWebsvcImplServiceSoapBinding" closeTimeout="00:10:00"
+          openTimeout="00:10:00" receiveTimeout="00:10:00" sendTimeout="00:20:00"
+          allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+          maxBufferSize="2147483647" maxBufferPoolSize="2147483647" maxReceivedMessageSize="2147483647"
+          messageEncoding="Text" textEncoding="utf-8" transferMode="Buffered"
+          useDefaultWebProxy="true">
+          <readerQuotas maxDepth="32" maxStringContentLength="2147483647"
+            maxArrayLength="2147483647" maxBytesPerRead="2147483647" maxNameTableCharCount="2147483647" />
+          <security mode="None">
+            <transport clientCredentialType="None" proxyCredentialType="None"
+              realm="" />
+            <message clientCredentialType="UserName" algorithmSuite="Default" />
+          </security>
+        </binding>
+        <binding name="ManagementControlSoap" closeTimeout="00:01:00"
+          openTimeout="00:01:00" receiveTimeout="00:10:00" sendTimeout="00:01:00"
+          allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+          maxBufferSize="2147483647" maxBufferPoolSize="2147483647" maxReceivedMessageSize="2147483647"
+          messageEncoding="Text" textEncoding="utf-8" transferMode="Buffered"
+          useDefaultWebProxy="true">
+          <readerQuotas maxDepth="32" maxStringContentLength="2147483647"
+            maxArrayLength="2147483647" maxBytesPerRead="2147483647" maxNameTableCharCount="2147483647" />
+          <security mode="None">
+            <transport clientCredentialType="None" proxyCredentialType="None"
+              realm="" />
+            <message clientCredentialType="UserName" algorithmSuite="Default" />
+          </security>
+        </binding>
+        <binding name="SsoWebsvcImplServiceSoapBinding" closeTimeout="00:01:00"
+          openTimeout="00:10:00" receiveTimeout="00:10:00" sendTimeout="00:20:00"
+          allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+          maxBufferSize="2147483647" maxBufferPoolSize="2147483647" maxReceivedMessageSize="2147483647"
+          messageEncoding="Text" textEncoding="utf-8" transferMode="Buffered"
+          useDefaultWebProxy="true">
+          <readerQuotas maxDepth="32" maxStringContentLength="2147483647"
+            maxArrayLength="2147483647" maxBytesPerRead="2147483647" maxNameTableCharCount="2147483647" />
+          <security mode="None">
+            <transport clientCredentialType="None" proxyCredentialType="None"
+              realm="" />
+            <message clientCredentialType="UserName" algorithmSuite="Default" />
+          </security>
+        </binding>
+      </basicHttpBinding>
+    </bindings>
+    <client>
+      <endpoint address="http://192.168.9.21:8080/jhip/services/SSO" binding="basicHttpBinding"
+        bindingConfiguration="SsoWebsvcImplServiceSoapBinding" contract="JHIPSSO.SsoWebsvc"
+        name="ssoWebsvcSOAP" />
+    </client>
+  </system.serviceModel>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup></configuration>

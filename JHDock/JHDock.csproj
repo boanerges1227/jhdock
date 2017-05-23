@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F09F60A7-FAD3-4C93-8F06-E6ACFDDBC8C9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JHDock</RootNamespace>
+    <AssemblyName>JHDock</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>D:\Prog\JHSSOWeb\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://192.168.9.21:8083/</InstallUrl>
+    <UpdateUrl>http://192.168.9.21:8083/</UpdateUrl>
+    <TargetCulture>zh-Hans</TargetCulture>
+    <ProductName>嘉和集成平台—单点登录系统</ProductName>
+    <PublisherName>北京嘉和美康信息技术有限公司</PublisherName>
+    <SuiteName>嘉和集成平台—单点登录系统</SuiteName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <TrustUrlParameters>true</TrustUrlParameters>
+    <ApplicationRevision>78</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9ACD57A126FECAD7CADB6ED89EC0D9B3ECC36A6D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>JHDock_1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>sso图标.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Common\Common.cs" />
+    <Compile Include="Common\ConvertEx.cs" />
+    <Compile Include="Common\HttpGood.cs" />
+    <Compile Include="Common\StringBinaryConvert.cs" />
+    <Compile Include="Common\UnZipFile.cs" />
+    <Compile Include="Entity\ListBoxItem.cs" />
+    <Compile Include="Entity\PublicVariableModel.cs" />
+    <Compile Include="Entity\SystemParamModel.cs" />
+    <Compile Include="Entity\UpdatePassWordModel.cs" />
+    <Compile Include="Forms\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BaseForm.Designer.cs">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DockWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DockWindow.Designer.cs">
+      <DependentUpon>DockWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmBsMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmBsMessageBox.designer.cs">
+      <DependentUpon>FrmBsMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLockScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLockScreen.Designer.cs">
+      <DependentUpon>FrmLockScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMainTile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMainTile.designer.cs">
+      <DependentUpon>FrmMainTile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMessageBox.designer.cs">
+      <DependentUpon>FrmMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMessageClose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMessageClose.Designer.cs">
+      <DependentUpon>FrmMessageClose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSkin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSkin.Designer.cs">
+      <DependentUpon>FrmSkin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmUpdatePassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmUpdatePassWord.designer.cs">
+      <DependentUpon>FrmUpdatePassWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmUserInfo.Designer.cs">
+      <DependentUpon>FrmUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMainQQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMainQQ.Designer.cs">
+      <DependentUpon>FrmMainQQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PerPixelAlphaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UpdatePassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UpdatePassWord.designer.cs">
+      <DependentUpon>UpdatePassWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSubSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSubSystem.Designer.cs">
+      <DependentUpon>FrmSubSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmShowDockWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmShowDockWindows.Designer.cs">
+      <DependentUpon>FrmShowDockWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\JHIPSSO\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service\AssemblyInfo.cs" />
+    <Compile Include="Service\ManipulationAppBar.cs" />
+    <Compile Include="Service\FormatXml.cs" />
+    <Compile Include="Common\ConvertFileAndStr.cs" />
+    <Compile Include="Common\WinAPI.cs" />
+    <Compile Include="Common\XmlSerializerHelper.cs" />
+    <Compile Include="Entity\DefDockItem.cs" />
+    <Compile Include="Entity\IcoObjModel.cs" />
+    <Compile Include="Entity\LoginInfoModel.cs" />
+    <Compile Include="Entity\PostUserInfoXmlModel.cs" />
+    <Compile Include="Entity\SystemInfoModel.cs" />
+    <Compile Include="Entity\UserInfoModel.cs" />
+    <Compile Include="Factory\AuthenticationFactory.cs" />
+    <Compile Include="Service\DataAuthentication.cs" />
+    <Compile Include="Service\DockManager.cs" />
+    <Compile Include="Service\DockSettings.cs" />
+    <Compile Include="Interface\IDockItem.cs" />
+    <Compile Include="Common\GetProcess.cs" />
+    <Compile Include="Common\IniFile.cs" />
+    <Compile Include="Common\Key.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Section.cs" />
+    <Compile Include="Common\SectionComparer.cs" />
+    <Compile Include="Service\XmlService.cs" />
+    <Compile Include="SpareClass\GetWindowsInfocs.cs" />
+    <Compile Include="SpareClass\KeyboardHook.cs" />
+    <Compile Include="SpareClass\MouseHook.cs" />
+    <Compile Include="SpareClass\MoveDeskIcon.cs" />
+    <Compile Include="SpareClass\ProcessAutoLogin.cs" />
+    <Compile Include="SpareClass\ShellExecute.cs" />
+    <Compile Include="UnitViews\AutoDocker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UnitViews\AutoDocker.designer.cs">
+      <DependentUpon>AutoDocker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnitViews\ModuleListBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UnitViews\ModuleListBox.Designer.cs">
+      <DependentUpon>ModuleListBox.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>Lib\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="ESBasic">
+      <HintPath>Lib\ESBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="ESFramework">
+      <HintPath>Lib\ESFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="GG2014.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\GG2014.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.4.369, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lib\CSkin.dll" />
+    <Content Include="Lib\ESBasic.dll" />
+    <Content Include="Lib\ESBasic.xml" />
+    <Content Include="Lib\ESFramework.dll" />
+    <Content Include="Lib\GG2014.Core.dll" />
+    <Content Include="Resources\CZEYY_LOGO.png" />
+    <None Include="Resources\HTRMYY.png" />
+    <Content Include="Resources\JMEYY_LOGO.png" />
+    <None Include="Resources\QHRMYY_LOGO.png" />
+    <None Include="Resources\QHRMYY_LOGO1.png" />
+    <None Include="Resources\QHRMYY.png" />
+    <None Include="Resources\QHRMYY_LOGO2.png" />
+    <None Include="Resources\QHRMYY_LOGO3.png" />
+    <Content Include="Resources\sso.ico" />
+    <None Include="Resources\产品logo.png" />
+    <Content Include="Resources\医院院徽.jpg" />
+    <Content Include="Resources\医院院徽.png" />
+    <None Include="Service References\JHIPSSO\configuration91.svcinfo" />
+    <None Include="Service References\JHIPSSO\configuration.svcinfo" />
+    <None Include="Service References\JHIPSSO\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\最小化点击态.png" />
+    <None Include="Resources\最小化常态.png" />
+    <None Include="Resources\背景图2.png" />
+    <None Include="Resources\背景图.png" />
+    <None Include="Resources\小背景.png" />
+    <Content Include="修改日志.txt" />
+    <None Include="Config\App.config" />
+    <None Include="Config\xDockConfig.ini" />
+    <None Include="Properties\app.manifest" />
+    <Content Include="favicon.ico" />
+    <Content Include="Lib\ICSharpCode.SharpZipLib.dll" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="Resources\01.png" />
+    <Content Include="Resources\02.png" />
+    <Content Include="Resources\03.png" />
+    <Content Include="Resources\04.png" />
+    <Content Include="Resources\05.png" />
+    <Content Include="Resources\06.png" />
+    <Content Include="Resources\07.png" />
+    <Content Include="Resources\08.png" />
+    <Content Include="Resources\baidu.bmp" />
+    <Content Include="Resources\being.bmp" />
+    <None Include="Resources\CA登录点击态.png" />
+    <None Include="Resources\CA登录常态.png" />
+    <Content Include="Resources\csdn.bmp" />
+    <Content Include="Resources\ECG.PNG" />
+    <Content Include="Resources\EMR.PNG" />
+    <Content Include="Resources\favicon.ico" />
+    <Content Include="Resources\gougou.bmp" />
+    <Content Include="Resources\HAIS.PNG" />
+    <Content Include="Resources\HQMS.PNG" />
+    <Content Include="Resources\HSDP.PNG" />
+    <Content Include="Resources\ICU.PNG" />
+    <Content Include="Resources\JHIP.PNG" />
+    <Content Include="Resources\JHIP_LOGO.png" />
+    <None Include="Resources\logo.png" />
+    <Content Include="Resources\sso图标.ico" />
+    <Content Include="Resources\user1.png" />
+    <Content Include="Resources\user1触发.png" />
+    <Content Include="Resources\三角指向-左.png" />
+    <None Include="Resources\个人信息常态.png" />
+    <Content Include="Resources\人员信息.png" />
+    <Content Include="Resources\人员信息hover.png" />
+    <Content Include="Resources\人员信息_咸阳.png" />
+    <Content Include="Resources\人员信息_咸阳2.png" />
+    <Content Include="Resources\人员信息，关闭常态.png" />
+    <Content Include="Resources\修改密码.png" />
+    <Content Include="Resources\修改密码hover.png" />
+    <Content Include="Resources\修改密码常态.png" />
+    <None Include="Resources\修改密码点击态.png" />
+    <Content Include="Resources\关闭.png" />
+    <Content Include="Resources\关闭_咸阳.png" />
+    <Content Include="Resources\关闭划过.png" />
+    <Content Include="Resources\关闭常态.png" />
+    <Content Include="Resources\关闭按钮.png" />
+    <None Include="Resources\取消常态.png" />
+    <None Include="Resources\取消点击态.png" />
+    <None Include="Resources\取消触发.png" />
+    <None Include="Resources\取消默认.png" />
+    <None Include="Resources\关闭点击态.png" />
+    <None Include="Resources\单点关闭常态.png" />
+    <None Include="Resources\单点关闭点击态.png" />
+    <Content Include="Resources\右背景1.png" />
+    <Content Include="Resources\嘉和信息logo.png" />
+    <Content Include="Resources\图标列表的窗体背景1.png" />
+    <Content Include="Resources\图标列表的窗体背景2.png" />
+    <Content Include="Resources\图标列表的窗体背景3.png" />
+    <Content Include="Resources\图标列表的窗体背景4.png" />
+    <Content Include="Resources\图标列表的窗体背景5.png" />
+    <Content Include="Resources\图标列表的窗体背景6.png" />
+    <Content Include="Resources\图标列表的窗体背景7.png" />
+    <Content Include="Resources\图标列表的窗体背景8.png" />
+    <Content Include="Resources\图标列表的窗体背景9.png" />
+    <None Include="Resources\底图.png" />
+    <None Include="Resources\文字部分.png" />
+    <None Include="Resources\弹窗关闭.png" />
+    <Content Include="Resources\最小化.png" />
+    <Content Include="Resources\框中.png" />
+    <Content Include="Resources\框右--左.png" />
+    <Content Include="Resources\框左--左.png" />
+    <None Include="Resources\登录点击态.png" />
+    <None Include="Resources\登录常态.png" />
+    <Content Include="Resources\登录界面.png" />
+    <Content Include="Resources\确定触发.png" />
+    <Content Include="Resources\确定默认.png" />
+    <Content Include="Resources\翻页键3常态.png" />
+    <Content Include="Resources\翻页键4常态.png" />
+    <Content Include="Resources\翻页键hover3.png" />
+    <Content Include="Resources\翻页键hover4.png" />
+    <Content Include="Resources\输入框触发.png" />
+    <Content Include="Resources\输入框默认.png" />
+    <Content Include="Resources\输入框默认_2.png" />
+    <Content Include="Resources\锁2.png" />
+    <Content Include="Resources\锁2触发.png" />
+    <Content Include="Resources\锁定图标划过状态.png" />
+    <Content Include="Resources\锁定图标常态状态.png" />
+    <Content Include="Resources\锁定图标点击状态.png" />
+    <Content Include="Resources\问号.png" />
+    <Content Include="Resources\问号划过.png" />
+    <Content Include="Resources\隐藏单点菜单.png" />
+    <None Include="Resources\隐藏点击态.png" />
+    <None Include="Resources\隐藏常态.png" />
+    <Content Include="Skins\Aero Milk\Aeroglass.png" />
+    <Content Include="Skins\Aero Milk\Separator.png" />
+    <Content Include="Skins\AstroGlass\bg.png" />
+    <Content Include="Skins\AstroGlass\sep.png" />
+    <Content Include="Skins\AstroGrey\bg.png" />
+    <Content Include="Skins\AstroGrey\sep.png" />
+    <Content Include="Skins\AstroIron\bg.png" />
+    <Content Include="Skins\AstroIron\sep.png" />
+    <Content Include="Skins\AstroLife\bg.png" />
+    <Content Include="Skins\AstroLife\sep.png" />
+    <Content Include="Skins\AstroOrange\bg.png" />
+    <Content Include="Skins\AstroOrange\sep.png" />
+    <Content Include="Skins\AstroSteel\bg.png" />
+    <Content Include="Skins\AstroSteel\sep.png" />
+    <Content Include="Skins\Blank\Blank.png" />
+    <Content Include="Skins\Blank\Separator.png" />
+    <Content Include="Skins\Brushed\Brushed.png" />
+    <Content Include="Skins\Brushed\Separator.png" />
+    <Content Include="Skins\Copy of Inspirat\Inspirat.png" />
+    <Content Include="Skins\Copy of Inspirat\Separator.png" />
+    <Content Include="Skins\CrystalXP.net\bg.png" />
+    <Content Include="Skins\CrystalXP.net\sep.png" />
+    <Content Include="Skins\Inspirat\Inspirat.png" />
+    <Content Include="Skins\Inspirat\Separator.png" />
+    <Content Include="Skins\Luminous\Luminous.png" />
+    <Content Include="Skins\Luminous\Separator.png" />
+    <Content Include="Skins\Milk1\Milk1.png" />
+    <Content Include="Skins\Milk1\Separator.png" />
+    <Content Include="Skins\Milk2\Milk2.png" />
+    <Content Include="Skins\Milk2\Separator.png" />
+    <Content Include="Skins\Minired\Minired.png" />
+    <Content Include="Skins\Minired\Separator.png" />
+    <Content Include="Skins\Painting\Painting.png" />
+    <Content Include="Skins\Painting\Separator.png" />
+    <Content Include="Skins\ProtoClay\bg.png" />
+    <Content Include="Skins\ProtoClay\sep.png" />
+    <Content Include="Skins\ProtoGlass\bg.png" />
+    <Content Include="Skins\ProtoGlass\oldbg.png" />
+    <Content Include="Skins\ProtoGlass\sep.png" />
+    <Content Include="Skins\ProtoIron\bg.png" />
+    <Content Include="Skins\ProtoIron\sep.png" />
+    <Content Include="Skins\ProtoSea\bg.png" />
+    <Content Include="Skins\ProtoSea\sep.png" />
+    <Content Include="Skins\ProtoSky\bg.png" />
+    <Content Include="Skins\ProtoSky\sep.png" />
+    <Content Include="Skins\ProtoSteel\bg.png" />
+    <Content Include="Skins\ProtoSteel\sep.png" />
+    <Content Include="Skins\ProtoTree\bg.png" />
+    <Content Include="Skins\ProtoTree\sep.png" />
+    <Content Include="Skins\Simply\Separator.png" />
+    <Content Include="Skins\Simply\Simply.png" />
+    <Content Include="Skins\Special-RD\Separator.png" />
+    <Content Include="Skins\Special-RD\Special-RD.png" />
+    <Content Include="Skins\Test1\bg.png" />
+    <Content Include="Skins\Test1\sep.png" />
+    <Content Include="Skins\ToonBLue\Separator.png" />
+    <Content Include="Skins\ToonBLue\Toonblue.png" />
+    <Content Include="Skins\VistaBlack\bg.png" />
+    <Content Include="Skins\VistaBlack\sep.png" />
+    <Content Include="Skins\Vista\Separator.png" />
+    <Content Include="Skins\Vista\Vista.png" />
+    <Content Include="Skins\WhiteCristal\Separator.png" />
+    <Content Include="Skins\WhiteCristal\Whitecristal.png" />
+    <Content Include="Skins\ZaKtoon\Separator.png" />
+    <Content Include="Skins\ZaKtoon\ZaKtoon.png" />
+    <Content Include="sso图标.ico" />
+    <Content Include="XMLDoc\WebserviceUserInfo.xml" />
+    <Content Include="XMLDoc\WebServiceXMLInfo.XML" />
+    <Content Include="XMLDoc\WebServiceXMLSysInfo.XML" />
+    <Content Include="XMLDoc\XMLModel.xml" />
+    <Content Include="XMLDoc\ToolBarButtons.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Skins\Test1\background.ini" />
+    <Content Include="Skins\Test1\separator.ini" />
+    <Content Include="XMLDoc\xDockConfig.ini" />
+    <None Include="Service References\JHIPSSO\SsoWebsvcImplService1.wsdl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Skins\Aero Milk\Background.ini" />
+    <None Include="Skins\Aero Milk\Separator.ini" />
+    <None Include="Skins\Aero Milk\Thumbs.db" />
+    <None Include="Skins\AstroGlass\background.ini" />
+    <None Include="Skins\AstroGlass\separator.ini" />
+    <None Include="Skins\AstroGlass\Thumbs.db" />
+    <None Include="Skins\AstroGrey\background.ini" />
+    <None Include="Skins\AstroGrey\separator.ini" />
+    <None Include="Skins\AstroGrey\Thumbs.db" />
+    <None Include="Skins\AstroIron\background.ini" />
+    <None Include="Skins\AstroIron\separator.ini" />
+    <None Include="Skins\AstroIron\Thumbs.db" />
+    <None Include="Skins\AstroLife\background.ini" />
+    <None Include="Skins\AstroLife\separator.ini" />
+    <None Include="Skins\AstroLife\Thumbs.db" />
+    <None Include="Skins\AstroOrange\background.ini" />
+    <None Include="Skins\AstroOrange\separator.ini" />
+    <None Include="Skins\AstroOrange\Thumbs.db" />
+    <None Include="Skins\AstroSteel\background.ini" />
+    <None Include="Skins\AstroSteel\separator.ini" />
+    <None Include="Skins\AstroSteel\Thumbs.db" />
+    <None Include="Skins\Blank\Background.ini" />
+    <None Include="Skins\Blank\Separator.ini" />
+    <None Include="Skins\Blank\Thumbs.db" />
+    <None Include="Skins\Brushed\Background.ini" />
+    <None Include="Skins\Brushed\Separator.ini" />
+    <None Include="Skins\Brushed\Thumbs.db" />
+    <None Include="Skins\Copy of Inspirat\Background.ini" />
+    <None Include="Skins\Copy of Inspirat\Separator.ini" />
+    <None Include="Skins\Copy of Inspirat\Thumbs.db" />
+    <None Include="Skins\CrystalXP.net\background.ini" />
+    <None Include="Skins\CrystalXP.net\separator.ini" />
+    <None Include="Skins\CrystalXP.net\Thumbs.db" />
+    <None Include="Skins\Inspirat\Background.ini" />
+    <None Include="Skins\Inspirat\Separator.ini" />
+    <None Include="Skins\Inspirat\Thumbs.db" />
+    <None Include="Skins\Luminous\Background.ini" />
+    <None Include="Skins\Luminous\Separator.ini" />
+    <None Include="Skins\Luminous\Thumbs.db" />
+    <None Include="Skins\Milk1\Background.ini" />
+    <None Include="Skins\Milk1\Separator.ini" />
+    <None Include="Skins\Milk1\Thumbs.db" />
+    <None Include="Skins\Milk2\Background.ini" />
+    <None Include="Skins\Milk2\Separator.ini" />
+    <None Include="Skins\Milk2\Thumbs.db" />
+    <None Include="Skins\Minired\Background.ini" />
+    <None Include="Skins\Minired\Separator.ini" />
+    <None Include="Skins\Minired\Thumbs.db" />
+    <None Include="Skins\Painting\Background.ini" />
+    <None Include="Skins\Painting\Separator.ini" />
+    <None Include="Skins\Painting\Thumbs.db" />
+    <None Include="Skins\ProtoClay\background.ini" />
+    <None Include="Skins\ProtoClay\separator.ini" />
+    <None Include="Skins\ProtoClay\Thumbs.db" />
+    <None Include="Skins\ProtoGlass\background.ini" />
+    <None Include="Skins\ProtoGlass\separator.ini" />
+    <None Include="Skins\ProtoGlass\Thumbs.db" />
+    <None Include="Skins\ProtoIron\background.ini" />
+    <None Include="Skins\ProtoIron\separator.ini" />
+    <None Include="Skins\ProtoIron\Thumbs.db" />
+    <None Include="Skins\ProtoSea\background.ini" />
+    <None Include="Skins\ProtoSea\separator.ini" />
+    <None Include="Skins\ProtoSea\Thumbs.db" />
+    <None Include="Skins\ProtoSky\background.ini" />
+    <None Include="Skins\ProtoSky\separator.ini" />
+    <None Include="Skins\ProtoSky\Thumbs.db" />
+    <None Include="Skins\ProtoSteel\background.ini" />
+    <None Include="Skins\ProtoSteel\separator.ini" />
+    <None Include="Skins\ProtoSteel\Thumbs.db" />
+    <None Include="Skins\ProtoTree\background.ini" />
+    <None Include="Skins\ProtoTree\separator.ini" />
+    <None Include="Skins\ProtoTree\Thumbs.db" />
+    <None Include="Skins\Simply\Background.ini" />
+    <None Include="Skins\Simply\Separator.ini" />
+    <None Include="Skins\Simply\Thumbs.db" />
+    <None Include="Skins\Special-RD\Background.ini" />
+    <None Include="Skins\Special-RD\Separator.ini" />
+    <None Include="Skins\Special-RD\Thumbs.db" />
+    <None Include="Skins\ToonBLue\Background.ini" />
+    <None Include="Skins\ToonBLue\Separator.ini" />
+    <None Include="Skins\ToonBLue\Thumbs.db" />
+    <None Include="Skins\VistaBlack\background.ini" />
+    <None Include="Skins\VistaBlack\separator.ini" />
+    <None Include="Skins\VistaBlack\Thumbs.db" />
+    <None Include="Skins\Vista\Background.ini" />
+    <None Include="Skins\Vista\Separator.ini" />
+    <None Include="Skins\Vista\Thumbs.db" />
+    <None Include="Skins\WhiteCristal\Background.ini" />
+    <None Include="Skins\WhiteCristal\Separator.ini" />
+    <None Include="Skins\WhiteCristal\Thumbs.db" />
+    <None Include="Skins\ZaKtoon\Background.ini" />
+    <None Include="Skins\ZaKtoon\Separator.ini" />
+    <None Include="Skins\ZaKtoon\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\BaseForm.resx">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DockWindow.resx">
+      <DependentUpon>DockWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmBsMessageBox.resx">
+      <DependentUpon>FrmBsMessageBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLockScreen.resx">
+      <DependentUpon>FrmLockScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMainTile.resx">
+      <DependentUpon>FrmMainTile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMessageBox.resx">
+      <DependentUpon>FrmMessageBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMessageClose.resx">
+      <DependentUpon>FrmMessageClose.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSkin.resx">
+      <DependentUpon>FrmSkin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmUpdatePassWord.resx">
+      <DependentUpon>FrmUpdatePassWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmUserInfo.resx">
+      <DependentUpon>FrmUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMainQQ.resx">
+      <DependentUpon>FrmMainQQ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UpdatePassWord.resx">
+      <DependentUpon>UpdatePassWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnitViews\ModuleListBox.resx">
+      <DependentUpon>ModuleListBox.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IAuthentication\JHDockInterface.csproj">
+      <Project>{ED8ABFBD-457A-46D3-A991-61E5DD583D78}</Project>
+      <Name>JHDockInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JHDockCA\JHDockCA.csproj">
+      <Project>{842C31B0-73F7-430D-A98E-66EAFF755BE9}</Project>
+      <Name>JHDockCA</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\JHIPSSO\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

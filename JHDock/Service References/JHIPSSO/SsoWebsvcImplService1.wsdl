@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://jhipwebsvc.bjgoodwill.com/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="SsoWebsvcImplService" targetNamespace="http://jhipwebsvc.bjgoodwill.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="unqualified" targetNamespace="http://jhipwebsvc.bjgoodwill.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="CAlLogin" type="tns:CAlLogin" />
+      <xs:element name="CAlLoginResponse" type="tns:CAlLoginResponse" />
+      <xs:element name="LoadAllSystem" type="tns:LoadAllSystem" />
+      <xs:element name="LoadAllSystemResponse" type="tns:LoadAllSystemResponse" />
+      <xs:element name="LoadSystemDetail" type="tns:LoadSystemDetail" />
+      <xs:element name="LoadSystemDetailResponse" type="tns:LoadSystemDetailResponse" />
+      <xs:element name="LoadSystemFile" type="tns:LoadSystemFile" />
+      <xs:element name="LoadSystemFileResponse" type="tns:LoadSystemFileResponse" />
+      <xs:element name="LogIn" type="tns:LogIn" />
+      <xs:element name="LogInResponse" type="tns:LogInResponse" />
+      <xs:element name="ModifyPassword" type="tns:ModifyPassword" />
+      <xs:element name="ModifyPasswordResponse" type="tns:ModifyPasswordResponse" />
+      <xs:element name="getNewSessionID" type="tns:getNewSessionID" />
+      <xs:element name="getNewSessionIDResponse" type="tns:getNewSessionIDResponse" />
+      <xs:element name="getUserDetailInfo" type="tns:getUserDetailInfo" />
+      <xs:element name="getUserDetailInfoResponse" type="tns:getUserDetailInfoResponse" />
+      <xs:complexType name="LoadAllSystem">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="inputPara" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="LoadAllSystemResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" form="qualified" name="returnVal" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="LoadSystemFile">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="inputPara" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="LoadSystemFileResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" form="qualified" name="returnVal" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="LogIn">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="inputPara" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="LogInResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" form="qualified" name="returnVal" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="CAlLogin">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="inputPara" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="CAlLoginResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" form="qualified" name="returnVal" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="getUserDetailInfo">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="inputPara" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="getUserDetailInfoResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" form="qualified" name="returnVal" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="getNewSessionID">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="inputPara" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="getNewSessionIDResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" form="qualified" name="returnVal" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ModifyPassword">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="inputPara" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ModifyPasswordResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" form="qualified" name="returnVal" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="LoadSystemDetail">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="inputPara" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="LoadSystemDetailResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" form="qualified" name="returnVal" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="LoadAllSystem">
+    <wsdl:part name="parameters" element="tns:LoadAllSystem" />
+  </wsdl:message>
+  <wsdl:message name="LogIn">
+    <wsdl:part name="parameters" element="tns:LogIn" />
+  </wsdl:message>
+  <wsdl:message name="CAlLogin">
+    <wsdl:part name="parameters" element="tns:CAlLogin" />
+  </wsdl:message>
+  <wsdl:message name="getUserDetailInfoResponse">
+    <wsdl:part name="parameters" element="tns:getUserDetailInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="LoadSystemDetailResponse">
+    <wsdl:part name="parameters" element="tns:LoadSystemDetailResponse" />
+  </wsdl:message>
+  <wsdl:message name="getUserDetailInfo">
+    <wsdl:part name="parameters" element="tns:getUserDetailInfo" />
+  </wsdl:message>
+  <wsdl:message name="LoadAllSystemResponse">
+    <wsdl:part name="parameters" element="tns:LoadAllSystemResponse" />
+  </wsdl:message>
+  <wsdl:message name="ModifyPassword">
+    <wsdl:part name="parameters" element="tns:ModifyPassword" />
+  </wsdl:message>
+  <wsdl:message name="CAlLoginResponse">
+    <wsdl:part name="parameters" element="tns:CAlLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="getNewSessionIDResponse">
+    <wsdl:part name="parameters" element="tns:getNewSessionIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="LoadSystemDetail">
+    <wsdl:part name="parameters" element="tns:LoadSystemDetail" />
+  </wsdl:message>
+  <wsdl:message name="LoadSystemFile">
+    <wsdl:part name="parameters" element="tns:LoadSystemFile" />
+  </wsdl:message>
+  <wsdl:message name="LoadSystemFileResponse">
+    <wsdl:part name="parameters" element="tns:LoadSystemFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="getNewSessionID">
+    <wsdl:part name="parameters" element="tns:getNewSessionID" />
+  </wsdl:message>
+  <wsdl:message name="ModifyPasswordResponse">
+    <wsdl:part name="parameters" element="tns:ModifyPasswordResponse" />
+  </wsdl:message>
+  <wsdl:message name="LogInResponse">
+    <wsdl:part name="parameters" element="tns:LogInResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SsoWebsvc">
+    <wsdl:operation name="LoadAllSystem">
+      <wsdl:input name="LoadAllSystem" message="tns:LoadAllSystem" />
+      <wsdl:output name="LoadAllSystemResponse" message="tns:LoadAllSystemResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="LoadSystemFile">
+      <wsdl:input name="LoadSystemFile" message="tns:LoadSystemFile" />
+      <wsdl:output name="LoadSystemFileResponse" message="tns:LoadSystemFileResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="LogIn">
+      <wsdl:input name="LogIn" message="tns:LogIn" />
+      <wsdl:output name="LogInResponse" message="tns:LogInResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="CAlLogin">
+      <wsdl:input name="CAlLogin" message="tns:CAlLogin" />
+      <wsdl:output name="CAlLoginResponse" message="tns:CAlLoginResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getUserDetailInfo">
+      <wsdl:input name="getUserDetailInfo" message="tns:getUserDetailInfo" />
+      <wsdl:output name="getUserDetailInfoResponse" message="tns:getUserDetailInfoResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getNewSessionID">
+      <wsdl:input name="getNewSessionID" message="tns:getNewSessionID" />
+      <wsdl:output name="getNewSessionIDResponse" message="tns:getNewSessionIDResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="ModifyPassword">
+      <wsdl:input name="ModifyPassword" message="tns:ModifyPassword" />
+      <wsdl:output name="ModifyPasswordResponse" message="tns:ModifyPasswordResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="LoadSystemDetail">
+      <wsdl:input name="LoadSystemDetail" message="tns:LoadSystemDetail" />
+      <wsdl:output name="LoadSystemDetailResponse" message="tns:LoadSystemDetailResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SsoWebsvcImplServiceSoapBinding" type="tns:SsoWebsvc">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LoadAllSystem">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="LoadAllSystem">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="LoadAllSystemResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoadSystemFile">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="LoadSystemFile">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="LoadSystemFileResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogIn">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="LogIn">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="LogInResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CAlLogin">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="CAlLogin">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="CAlLoginResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getUserDetailInfo">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="getUserDetailInfo">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getUserDetailInfoResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNewSessionID">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="getNewSessionID">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getNewSessionIDResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModifyPassword">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="ModifyPassword">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="ModifyPasswordResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoadSystemDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="LoadSystemDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="LoadSystemDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SsoWebsvcImplService">
+    <wsdl:port name="ssoWebsvcSOAP" binding="tns:SsoWebsvcImplServiceSoapBinding">
+      <soap:address location="http://127.0.0.1:8080/jhip/services/SSO" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

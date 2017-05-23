@@ -1,0 +1,361 @@
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\JHDock.exe.config
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\JHDock.application
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\JHDock.exe
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\JHDock.pdb
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\IAuthentication.dll
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\JHDockCA.dll
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\IAuthentication.pdb
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\JHDockCA.pdb
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.application
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.exe
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\JHDock.exe.config
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.exe
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\JHDock.application
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\JHDock.exe
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\JHDock.pdb
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\IAuthentication.dll
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\JHDockCA.dll
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\Interop.NETSIGNLib.dll
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\Interop.TsaClientLib.dll
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\Interop.NetSignApiLib.dll
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\IAuthentication.pdb
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\bin\Release\JHDockCA.pdb
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+C:\Users\Rainy\Desktop\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.application
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.config
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\JHDock.application
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\JHDock.exe
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\JHDock.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\JHDockCA.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\Interop.NETSIGNLib.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\Interop.TsaClientLib.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\Interop.NetSignApiLib.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\bin\Release\JHDockCA.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.application
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\JHDock.exe.config
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.exe
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\JHDock.application
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\JHDock.exe
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\JHDock.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\JHDockCA.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\Interop.NETSIGNLib.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\Interop.TsaClientLib.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\Interop.NetSignApiLib.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\bin\Release\JHDockCA.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.application
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\obj\x86\Release\JHDock.Forms.Form1.resources
+D:\wangjingran\JHDock\JHDock\bin\Release\JHDock.exe.config
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.exe
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+D:\wangjingran\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+D:\wangjingran\JHDock\JHDock\bin\Release\JHDock.application
+D:\wangjingran\JHDock\JHDock\bin\Release\JHDock.exe
+D:\wangjingran\JHDock\JHDock\bin\Release\JHDock.pdb
+D:\wangjingran\JHDock\JHDock\bin\Release\IAuthentication.dll
+D:\wangjingran\JHDock\JHDock\bin\Release\JHDockCA.dll
+D:\wangjingran\JHDock\JHDock\bin\Release\Interop.NETSIGNLib.dll
+D:\wangjingran\JHDock\JHDock\bin\Release\Interop.TsaClientLib.dll
+D:\wangjingran\JHDock\JHDock\bin\Release\Interop.NetSignApiLib.dll
+D:\wangjingran\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+D:\wangjingran\JHDock\JHDock\bin\Release\IAuthentication.pdb
+D:\wangjingran\JHDock\JHDock\bin\Release\JHDockCA.pdb
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+D:\wangjingran\JHDock\JHDock\obj\x86\Release\JHDock.application
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\Interop.SVS_C_SDK_COMLib.dll
+E:\work\嘉和集成平台\Code\C#\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\JHDock.exe.config
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.exe
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\JHDock.application
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\JHDock.exe
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\JHDock.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\JHDockCA.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\Interop.SVS_C_SDK_COMLib.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\bin\Release\JHDockCA.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\obj\x86\Release\JHDock.application
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.config
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\JHDock.application
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\JHDock.exe
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\JHDock.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\JHDockCA.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\Interop.SVS_C_SDK_COMLib.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\bin\Release\JHDockCA.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.application
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.config
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\JHDock.application
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\JHDock.exe
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\JHDock.pdb
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\IAuthentication.dll
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\JHDockCA.dll
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\Interop.SVS_C_SDK_COMLib.dll
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\IAuthentication.pdb
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\bin\Release\JHDockCA.pdb
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+D:\1231\DebuggerV2.3\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.application
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.config
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\JHDock.application
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\JHDock.exe
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\JHDock.pdb
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\IAuthentication.dll
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\JHDockCA.dll
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\Interop.SVS_C_SDK_COMLib.dll
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\IAuthentication.pdb
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\bin\Release\JHDockCA.pdb
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+C:\Users\lib\Desktop\单点登录资料\新版单点登录代码\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.application
+E:\Code\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.config
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.BaseForm.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.MainForm.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.ModuleListBox.resources
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Code\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+E:\Code\JHDock\JHDock\JHDock\bin\Release\JHDock.application
+E:\Code\JHDock\JHDock\JHDock\bin\Release\JHDock.exe
+E:\Code\JHDock\JHDock\JHDock\bin\Release\JHDock.pdb
+E:\Code\JHDock\JHDock\JHDock\bin\Release\CSkin.dll
+E:\Code\JHDock\JHDock\JHDock\bin\Release\ESBasic.dll
+E:\Code\JHDock\JHDock\JHDock\bin\Release\ESFramework.dll
+E:\Code\JHDock\JHDock\JHDock\bin\Release\IAuthentication.dll
+E:\Code\JHDock\JHDock\JHDock\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Code\JHDock\JHDock\JHDock\bin\Release\JHDockCA.dll
+E:\Code\JHDock\JHDock\JHDock\bin\Release\Interop.SVS_C_SDK_COMLib.dll
+E:\Code\JHDock\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+E:\Code\JHDock\JHDock\JHDock\bin\Release\IAuthentication.pdb
+E:\Code\JHDock\JHDock\JHDock\bin\Release\JHDockCA.pdb
+E:\Code\JHDock\JHDock\JHDock\bin\Release\ESBasic.xml
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.application
+E:\Code\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmSkin.resources
+E:\Code\JHDock\JHDock\JHDock\bin\Release\GG2014.Core.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.config
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\Interop.SHDocVw.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.csproj.ResolveComReference.cache
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.pdb
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\JHDock.exe.manifest
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\JHDock.application
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\JHDock.exe
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\JHDock.pdb
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\CSkin.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\ESBasic.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\ESFramework.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\GG2014.Core.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\IAuthentication.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\JHDockCA.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\Interop.SVS_C_SDK_COMLib.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\Interop.HBCA_SOFSEALLib.dll
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\IAuthentication.pdb
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\JHDockCA.pdb
+D:\Work\Code\CS\JHDock\JHDock\JHDock\bin\Release\ESBasic.xml
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.BaseForm.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.DockWindow.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmBsMessageBox.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.frmLogin.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageBox.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMessageClose.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmSkin.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUpdatePassWord.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmUserInfo.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.UpdatePassWord.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.Properties.Resources.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.ModuleListBox.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.TrustInfo.xml
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.exe.manifest
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.application
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMainQQ.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmMainTile.resources
+D:\Work\Code\CS\JHDock\JHDock\JHDock\obj\x86\Release\JHDock.FrmLockScreen.resources

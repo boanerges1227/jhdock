@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RESPONSE JHIPMsgVersion="1.0.1">
+    <RESULT_SYSTEM_NO>true</RESULT_SYSTEM_NO>
+    <RESULT_CONTENT>
+        <SYSTEM_INFOS>
+            <SYSTEM_INFO>
+                <ROW_KEY>1</ROW_KEY>
+                <IMAGE_INFO></IMAGE_INFO>
+                <RUN_PROGRAM></RUN_PROGRAM>
+                <RUN_FRAMEWORK>Info</RUN_FRAMEWORK>
+                <REGIST_NAME>嘉和美康</REGIST_NAME>
+                <SYSTEM_NO>JHMK</SYSTEM_NO>
+                <CONTENT>嘉和美康信息显示</CONTENT>
+            </SYSTEM_INFO>
+            <SYSTEM_INFO>
+                <ROW_KEY>1</ROW_KEY>
+                <IMAGE_INFO />
+                <RUN_PROGRAM />
+                <RUN_FRAMEWORK>cs</RUN_FRAMEWORK>
+                <REGIST_NAME>his</REGIST_NAME>
+                <SYSTEM_NO />
+                <CONTENT />
+            </SYSTEM_INFO>
+            <SYSTEM_INFO>
+                <ROW_KEY>4</ROW_KEY>
+                <IMAGE_INFO>010101010101010111</IMAGE_INFO>
+                <RUN_PROGRAM>ee</RUN_PROGRAM>
+                <RUN_FRAMEWORK>BS</RUN_FRAMEWORK>
+                <REGIST_NAME>his</REGIST_NAME>
+                <SYSTEM_NO>36</SYSTEM_NO>
+                <CONTENT>1001</CONTENT>
+            </SYSTEM_INFO>
+            <SYSTEM_INFO>
+                <ROW_KEY>6</ROW_KEY>
+                <IMAGE_INFO>01010</IMAGE_INFO>
+                <RUN_PROGRAM>ty</RUN_PROGRAM>
+                <RUN_FRAMEWORK>cs</RUN_FRAMEWORK>
+                <REGIST_NAME>pacs</REGIST_NAME>
+                <SYSTEM_NO>34</SYSTEM_NO>
+                <CONTENT>567</CONTENT>
+            </SYSTEM_INFO>
+        </SYSTEM_INFOS>
+    </RESULT_CONTENT>
+</RESPONSE>

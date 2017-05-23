@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RESPONSE JHIPMsgVersion="1.0.1">
+    <RESULT_SYSTEM_NO> true </RESULT_SYSTEM_NO>
+    <RESULT_CONTENT>
+        <ROW_KEY>123</ROW_KEY>
+        <NAME>刘长生</NAME>
+        <DEPT_CODE>0103</DEPT_CODE>
+        <DEPT_NAME>内科专业</DEPT_NAME>
+        <LOGIN_TIME>2013-12-27 13:00:00</LOGIN_TIME>
+        <SYSTEM_INFOS>
+            <SYSTEM_INFO>
+                <ROW_KEY>1</ROW_KEY>
+            </SYSTEM_INFO>
+            <SYSTEM_INFO>
+                <ROW_KEY>2</ROW_KEY>
+            </SYSTEM_INFO>
+            <SYSTEM_INFO>
+                <ROW_KEY>3</ROW_KEY>
+            </SYSTEM_INFO>
+        </SYSTEM_INFOS>
+</RESULT_CONTENT>
+</RESPONSE>

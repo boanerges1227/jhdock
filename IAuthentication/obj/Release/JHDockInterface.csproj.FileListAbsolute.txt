@@ -1,0 +1,45 @@
+E:\work\嘉和集成平台\Code\C#\JHDock\IAuthentication\bin\Release\IAuthentication.dll
+E:\work\嘉和集成平台\Code\C#\JHDock\IAuthentication\bin\Release\IAuthentication.pdb
+E:\work\嘉和集成平台\Code\C#\JHDock\IAuthentication\obj\Release\ResolveAssemblyReference.cache
+E:\work\嘉和集成平台\Code\C#\JHDock\IAuthentication\obj\Release\IAuthentication.dll
+E:\work\嘉和集成平台\Code\C#\JHDock\IAuthentication\obj\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\IAuthentication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\IAuthentication\bin\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\IAuthentication\bin\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\JHDock\IAuthentication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\JHDock\IAuthentication\obj\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\JHDock\IAuthentication\obj\Release\IAuthentication.pdb
+D:\wangjingran\JHDock\IAuthentication\bin\Release\IAuthentication.dll
+D:\wangjingran\JHDock\IAuthentication\bin\Release\IAuthentication.pdb
+D:\wangjingran\JHDock\IAuthentication\obj\Release\ResolveAssemblyReference.cache
+D:\wangjingran\JHDock\IAuthentication\obj\Release\IAuthentication.dll
+D:\wangjingran\JHDock\IAuthentication\obj\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\IAuthentication\bin\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\IAuthentication\bin\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\IAuthentication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\IAuthentication\obj\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\IAuthentication\obj\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.pdb
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\IAuthentication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.dll
+C:\Documents and Settings\Administrator\桌面\单点登录\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.pdb
+D:\1231\DebuggerV2.3\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.dll
+D:\1231\DebuggerV2.3\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.pdb
+D:\1231\DebuggerV2.3\JHDock\JHDock\IAuthentication\obj\Release\ResolveAssemblyReference.cache
+D:\1231\DebuggerV2.3\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.dll
+D:\1231\DebuggerV2.3\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.pdb
+E:\Code\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.dll
+E:\Code\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.pdb
+E:\Code\JHDock\JHDock\IAuthentication\obj\Release\ResolveAssemblyReference.cache
+E:\Code\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.dll
+E:\Code\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.pdb
+D:\Work\Code\CS\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.dll
+D:\Work\Code\CS\JHDock\JHDock\IAuthentication\bin\Release\IAuthentication.pdb
+D:\Work\Code\CS\JHDock\JHDock\IAuthentication\obj\Release\ResolveAssemblyReference.cache
+D:\Work\Code\CS\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.dll
+D:\Work\Code\CS\JHDock\JHDock\IAuthentication\obj\Release\IAuthentication.pdb
